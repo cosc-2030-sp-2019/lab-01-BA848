@@ -2,7 +2,7 @@
 For Lab 01:  Process Numbers and Compress Data
 
 STATEMENT OF HELP:
-Assistance from Lane Snively, David Burch
+Assistance from Lane Snively, David Burch, Andrew Fuller, Connor Kasarda
 
 
 QUESTION:
