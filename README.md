@@ -4,7 +4,6 @@ For Lab 01:  Process Numbers and Compress Data
 STATEMENT OF HELP:
 Assistance from Lane Snively, David Burch
 
-PROBLEMS: I could not get the output correct, which is the reason I do not have the screenshots
 
 QUESTION:
 Note that zero has a special use as a fla g here. What if the input file contained a four-byte zero? Is that a
